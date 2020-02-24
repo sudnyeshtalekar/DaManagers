@@ -1,4 +1,4 @@
-# Damanagers
+# DaManagers
 Parallax Hack<br/>
 <br/>
 <br/>
