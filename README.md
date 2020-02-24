@@ -2,7 +2,7 @@
 Parallax Hack<br/>
 <br/>
 <br/>
--The application shows and monitors the inflow of dam as authorities are concerned with the same, and this could help them.</br>
+-The application shows and monitors the inflow of dam as authorities are concerned with the same, and this could help them</br>
 -Along with that, there will be a specific threshold set for specific dams at which responsible authority will be alerted to take specific actions if possible.</br>
 -Similar alerting system will be kept in the user application that will give an alarm to user as well.</br>
 -During the flood like situations, if the danger level crosses 5 there would be an alarm to users </br>
