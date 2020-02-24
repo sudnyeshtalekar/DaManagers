@@ -1,8 +1,7 @@
 # Damanagers
-Parallax Hack
-+
-+
-+
+Parallax Hack<br/>
+<br/>
+<br/>
 -The application shows and monitors the inflow of dam as authorities are concerned with the same, and this could help them.
 -Along with that, there will be a specific threshold set for specific dams at which responsible authority will be alerted to take specific actions if possible.
 -Similar alerting system will be kept in the user application that will give an alarm to user as well.
