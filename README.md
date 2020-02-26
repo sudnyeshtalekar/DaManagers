@@ -9,3 +9,5 @@ Parallax Hack<br/>
 -The app also has the feature to display the safe zones near to the user.</br>
 -If the water level in the dam reaches the maximum  limit estimated from the model, a notification to the authorities is sent to open the dam gates and the amount of water to be drained out so that it won't flood the nearby areas.</br>
 -If the dam is filled to its maximum capacity, the amount of rainfall that can lead to breaching of dam and floods is calculated so as to control the dam water inflow and outflow if sudden rainfall reaches the threshold value.</br>
+The hardware implementation is done on Arduino board.<br/>
+click for [**Arduino script**](https://github.com/sudnyeshtalekar/DaManagers/tree/master/HARDWARE)
