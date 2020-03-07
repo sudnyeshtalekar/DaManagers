@@ -14,14 +14,14 @@ press=re.findall('"pressure":[0-9]+',soup)
 press=re.findall('[0-9]+',press[0])
 press=press[0]+' mmHg'
 # Your Account SID from twilio.com/console
-account_sid = "AC01eef4ed31cd534f2415e7e7067fa440"
+account_sid = "AC0**********************SECRET"
 # Your Auth Token from twilio.com/console
-auth_token  = "ab550cfacb7e5d5568559a8a56851de0"
+auth_token  = "ab5************************de0"
 
 client = Client(account_sid, auth_token)
 
 config = {
-"apiKey": "AIzaSyDr7-D8Inrh-d97J7b22tJRLA6bn-ulOcw",
+"apiKey": "A******7-D****h-d9************n-u**cw",
     "authDomain": "parallax-50dc4.firebaseapp.com",
     "databaseURL": "https://parallax-50dc4.firebaseio.com",
     "projectId": "parallax-50dc4",
